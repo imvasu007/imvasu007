@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vasu Srivastava
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on web design projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me on email imvasu007@gmail.com
 
 <!---
